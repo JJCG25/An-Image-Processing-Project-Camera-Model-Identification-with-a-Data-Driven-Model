@@ -5,7 +5,7 @@
   <p align="center">
     <a href="https://github.com/JJCG25" rel="external nofollow noopener" target="_blank"><strong>Juan Calderón</strong></a>
     ·
-    <a href="https://github.com/Danita21" rel="external nofollow noopener" target="_blank"><strong>Dana Villamizar</strong></a>
+    <a href="https://github.com/DanaVillamizar" rel="external nofollow noopener" target="_blank"><strong>Dana Villamizar</strong></a>
     ·
     <a href="https://github.com/Sneider-exe" rel="external nofollow noopener" target="_blank"><strong>Sneider Sánchez</strong></a>
   </p>
