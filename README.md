@@ -25,7 +25,7 @@ The project implements two main strategies:
 
 The model achieves a validation accuracy of **82%** on the FloreView dataset and is available through a simple web [interface](https://jjcg25.github.io).
 
-A detailed explanation of the methodology and results can be found in the [final paper (PDF)](Camera Model Identification with a Data-Driven Model.pdf).
+A detailed explanation of the methodology and results can be found in the [final paper (PDF)](Camera_Model_Identification_with_a_Data-Driven_Model.pdf).
 
 ---
 
